@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using VoxelModelEditor.Document.Models;
-using VoxelModelEditor.Postures;
+using VoxelModelEditor.Document.Postures;
 using VoxelModelEditor.Transforms;
 
 namespace VoxelModelEditor.Windows

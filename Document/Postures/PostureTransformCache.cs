@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VoxelModelEditor.Postures
+namespace VoxelModelEditor.Document.Postures
 {
     class PostureTransformCache
     {

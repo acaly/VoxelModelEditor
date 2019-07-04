@@ -5,7 +5,7 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VoxelModelEditor.Postures
+namespace VoxelModelEditor.Document.Postures
 {
     //Serialization only
     class PostureData

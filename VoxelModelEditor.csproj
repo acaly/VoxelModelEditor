@@ -72,9 +72,9 @@
     <Compile Include="Document\Models\Voxel.cs" />
     <Compile Include="Document\Models\VoxelDataStorage.cs" />
     <Compile Include="Document\Models\VoxelModel.cs" />
-    <Compile Include="Postures\Posture.cs" />
-    <Compile Include="Postures\IPostureSource.cs" />
-    <Compile Include="Postures\PostureTransformCache.cs" />
+    <Compile Include="Document\Postures\Posture.cs" />
+    <Compile Include="Document\Postures\IPostureSource.cs" />
+    <Compile Include="Document\Postures\PostureTransformCache.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Windows\TestWindow.cs">
